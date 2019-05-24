@@ -10,4 +10,4 @@ home-page = "https://github.com/juanrgon/dragoon"
 classifiers = ["License :: OSI Approved :: MIT License"]
 
 [tool.flit.scripts]
-flit = "dragoon:main"
+dragoon = "dragoon:main"
